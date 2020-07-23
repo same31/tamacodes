@@ -3,7 +3,7 @@
   "all": [
     "../server/index.spa.html",
     "LICENSES",
-    "app.c067b89.js",
+    "app.f26f7f5.js",
     "commons/app.929adbb.js",
     "pages/index.ceb8a85.js",
     "runtime.d258080.js"
@@ -11,7 +11,7 @@
   "initial": [
     "runtime.d258080.js",
     "commons/app.929adbb.js",
-    "app.c067b89.js"
+    "app.f26f7f5.js"
   ],
   "async": [
     "pages/index.ceb8a85.js"
@@ -677,7 +677,7 @@
   },
   "assetsMapping": {
     "1a3ae26b": [
-      "app.c067b89.js"
+      "app.f26f7f5.js"
     ],
     "085a35c4": [
       "commons/app.929adbb.js"
